@@ -77,8 +77,7 @@
 
 ## Скриншоты
 
-Скриншоты этапов выполнения приложены отдельно:
-- Шаг 4 — локальная проверка модуля
-- Шаг 6 — идемпотентность через playbook
-- Шаг 15 — установка collection из архива
-- Шаг 16 — запуск playbook через collection
+- [Шаг 4 — локальная проверка модуля](screenshots/04-module-local-check.png)
+- [Шаг 6 — идемпотентность через playbook](screenshots/06-playbook-idempotency.png)
+- [Шаг 15 — установка collection из архива](screenshots/15-collection-install.png)
+- [Шаг 16 — запуск playbook через collection](screenshots/16-playbook-collection.png)
