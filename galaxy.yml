@@ -1,0 +1,21 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Michael Kochnev (@michaelkoch51)
+description: Custom Ansible collection with my_own_module and my_own_role
+license:
+  - GPL-2.0-or-later
+license_file: ''
+tags:
+  - yandex_cloud
+  - elk
+  - custom_module
+dependencies: {}
+repository: https://github.com/michaelkoch51/my_own_collection
+documentation: https://github.com/michaelkoch51/my_own_collection
+homepage: https://github.com/michaelkoch51/my_own_collection
+issues: https://github.com/michaelkoch51/my_own_collection/issues
+build_ignore: []

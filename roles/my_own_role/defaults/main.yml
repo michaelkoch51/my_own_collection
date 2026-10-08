@@ -1,0 +1,4 @@
+---
+# Default parameters for my_own_module
+my_own_module_path: /tmp/my_own_file.txt
+my_own_module_content: "Default content from my_own_role"
